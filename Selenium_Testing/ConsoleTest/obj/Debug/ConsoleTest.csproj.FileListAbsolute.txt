@@ -1,0 +1,11 @@
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\WebDriver.dll
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\WebDriver.Support.dll
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\WebDriver.xml
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\bin\Debug\WebDriver.Support.xml
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\EASJ\Documents\Visual Studio 2017\Projects\Selenium_Testing\ConsoleTest\obj\Debug\ConsoleTest.pdb
